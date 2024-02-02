@@ -1,0 +1,65 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter-codespaces",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter-codespaces (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter-codespaces (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "cs310-basic-demo",
+            "cwd": "samples/cs310-basic-demo",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "cs310-basic-demo (profile mode)",
+            "cwd": "samples/cs310-basic-demo",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "cs310-basic-demo (release mode)",
+            "cwd": "samples/cs310-basic-demo",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter-starter",
+            "cwd": "samples/flutter-starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter-starter (profile mode)",
+            "cwd": "samples/flutter-starter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter-starter (release mode)",
+            "cwd": "samples/flutter-starter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
